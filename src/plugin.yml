@@ -1,0 +1,4 @@
+name: PickupChatMessages
+main: com.github.rocmalone.PickupChatMessages
+version: 0.1
+commands:
